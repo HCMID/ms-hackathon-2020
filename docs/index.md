@@ -1,5 +1,5 @@
 ---
-title:  "Holy Cross Manuscripts Hackathon, February 2, 2019"
+title:  "Holy Cross Manuscripts Hackathon, February 15, 2020"
 layout: page
 ---
 
