@@ -27,7 +27,6 @@ layout: page
 -   [overview](overview)
     -   for [teachers](teachers)
     -   for [students](students)
--   [how to register](registration)
 -   [schedule](schedule) of the day
 -   follow up: [after the hackathon](followup)
 
