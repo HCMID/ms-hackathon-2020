@@ -59,3 +59,12 @@ Finally,
 ## Details:  Running scripts
 
 To test and validate our editions, we use scripts written in Scala, a language that runs on the Java Virtual Machine.   We use docker to provide an environment containing all of this software.
+
+
+If you're running Mac OS:
+
+- install [Docker Desktop](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
+
+If you're running Windows:
+
+- install [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
