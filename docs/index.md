@@ -6,9 +6,9 @@ layout: page
 
 ## Welcome!
 
-1.  Register and find your [team leaders](teamleaders).
-2.  Verify that one (or more) of your team's computers  is [fully configured](preparation).
-2.  Download a `zip` file with [data and templates for editing](https://github.com/HCMID/hackathon2019-template).  (Look for green "Clone or download" button.)
+1.  Find your way to Levis Browsing Room, and organize your school's group in teams with one of our team leaders.
+2.  Verify that one (or more) of each team's computers  is [fully configured](preparation).
+2.  Download a `zip` file with [data and templates for editing](https://github.com/HCMID/hackathon2020-template).  (Look for green "Clone or download" button.)
 
 ## What is our manuscripts hackathon?
 
@@ -17,8 +17,8 @@ layout: page
 -   No prior experience with manuscripts or editing is required. Students should currently be taking a Latin class (any level).
 -   We'll create a digital edition of a cool illustrated 9th-century Latin  manuscript with a poem about the constellations (Germanicus Caesar's *Aratea*.)
 - You bring a laptop and enthusiasm: we'll provide training and coffee breaks (and occasional examples of rhetorical figures like [zeugma](http://examples.yourdictionary.com/examples-of-zeugma.html)).
--  You may bring a bag lunch, or purchase lunch at the Kimball Dining Hall for $10.
--  Our work will be submitted to a new publication series, *Holy Cross Digital Diplomatic  Editions*.  If our work is accepted, your name will apear in the list of contributing editors!  (The new series will be published as part of the Holy Cross Library’s digital Institutional Repository.)
+-  Lunch and snacks at coffee breaks will be provided.
+-  We plan to submit a complete edition of the Bern manuscript's *Aratea* to a new publication series, *Holy Cross Digital Diplomatic  Editions*.  If our work is accepted, your name will apear in the list of contributing editors!  (The new series will be published as part of the Holy Cross Library’s digital Institutional Repository.)
 
 
 
@@ -40,9 +40,4 @@ The hackathon is organized by undergraduate students and alumni of the [Manuscri
 
 ## Date, time, location
 
-Saturday, February 2, 9:00 a.m. to 4:00 pm, in Hogan Center at the College of the Holy Cross.
-
-
-## How to register
-
-Use [this Google form](https://goo.gl/forms/bNGXMRCcYQ2vSXbh2) to register.
+Saturday, February 15, 9:00 a.m. to 4:00 pm, at the College of the Holy Cross.  If you show up at the 3rd floor (parking lot) entrance to Hogan Center at Holy Cross, MID members will escort you and your team to the Levis Browsing Room in Dinand Library.
