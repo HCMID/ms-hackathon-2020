@@ -41,7 +41,7 @@ Installing atom should have installed the command-line atom package manager `apm
 
 
 
-Download the file [atom-tablr-conf.cson](http://hcmid.github.io/tech/atom-tablr-conf.cson), and copy it to atom's default location for config files. You can do that with the `cp` command in your terminal.
+Download the file [atom-tablr-conf.cson](http://hcmid.github.io/tech/atom-tablr-conf.cson), and copy it to atom's default location for config files. One way to do that is to use the `cp` command in your terminal.  If the file is named `atom-tablr-conf.cson` and is in your terminal's working directory, you can copy it with this command:
 
     cp atom-tablr-conf.cson $HOME/.atom/config.cson
 
@@ -58,7 +58,4 @@ Finally,
 
 ## Details:  Running scripts
 
-To test and validate our editions, we use scripts written in Scala, a language that runs on the Java Virtual Machine.  `sbt` is a build system that will find the appropriate version of Scala and any other code libraries your scripts need, and automatically download them, so if you install Java and sbt, everything you need to run MID scripts is taken care of for you.
-
--  from [this confusing page](http://www.oracle.com/technetwork/java/javase/downloads/index.html), find the link to the most recent **JDK** (the Java Development Kit), download it, and install it
-- download and install the "simple build tool," `sbt`:  <https://www.scala-sbt.org/>
+To test and validate our editions, we use scripts written in Scala, a language that runs on the Java Virtual Machine.   We use docker to provide an environment containing all of this software.
