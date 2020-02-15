@@ -21,3 +21,8 @@ At least one machine should have the following software:
 ## Installing and configuring your software
 
 See [details here](../software).
+
+
+## Templates to work from
+
+- download [here](https://github.com/HCMID/hackathon2020-template)
