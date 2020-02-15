@@ -8,7 +8,7 @@ layout: page
 
 1.  Find your way to Levis Browsing Room, and organize your school's group in teams with one of our team leaders.
 2.  Verify that one (or more) of each team's computers  is [fully configured](preparation).
-2.  Download a `zip` file with [data and templates for editing](https://github.com/HCMID/hackathon2020-template).  (Look for green "Clone or download" button.)
+2.  Download a `zip` file with [data and templates for editing](https://github.com/HCMID/hackathon2020-template).  (Look for the green "Clone or download" button.)
 
 ## What is our manuscripts hackathon?
 

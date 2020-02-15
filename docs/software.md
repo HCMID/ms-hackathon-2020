@@ -5,9 +5,9 @@ title: Software for editing manuscripts
 
 ## Summary
 
-1.  a terminal (such as the bash shell) to run commands
+1.  the bash shell (a terminal) to run commands
 2.  [atom](https://atom.io) (text editor)
-4.  [java sdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and [sbt](https://www.scala-sbt.org/) (running scripts)
+4.  docker, to ru software packages (docker containers) on different host operating systems
 
 
 ## Details: terminal
@@ -19,7 +19,7 @@ Mac OS X users can use the `Terminal` app (in `Applications/Utilities`).
 
 ## Details:  Atom for text editing
 
-We edit several types of documents:  tables of data in delimited text files, diplomatic editions marked up in XML, scripts in the Scala language, and texts, slide shows and web pages composed in Markdown.  The [Atom editor](https://atom.io/) provides excellent support for all of these when configured with appropriate plugins.
+In today's workshop, we will edit tables of data in delimited text files, and diplomatic editions of texts marked up in XML.  The plugin architecture of the [Atom editor](https://atom.io/) provides excellent support for all of these.
 
 Download and install atom from <https://atom.io/>. If you are using Mac OS X, open atom and choose from the Atom menu, "Install Shell Commands".  (This step should not be necessary on Windows or Linux operating systems.)
 
@@ -27,7 +27,7 @@ Download and install atom from <https://atom.io/>. If you are using Mac OS X, op
 ### Configuring Atom for scholarly work on manuscripts
 
 
-Installing atom should have installed the command-line atom package manager `apm`.   Copy and pasthe the following commands into a terminal to install all of these packages:
+Installing atom should have installed the command-line atom package manager `apm`.   Copy and paste the the following commands into a terminal to install all of these packages:
 
     apm install intentions
     apm install busy-signal

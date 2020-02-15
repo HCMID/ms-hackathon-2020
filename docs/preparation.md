@@ -12,9 +12,9 @@ title: Preparation
 
 At least one machine should have the following software:
 
--   a terminal (or shell)
+-   a bash shell (terminal)
 -   the Atom text editor ([download here](https://atom.io/))
--  the "simple build tool," `sbt` ([download here](https://www.scala-sbt.org/index.html))
+-   docker
 
 
 
