@@ -28,6 +28,8 @@ links:
     url:  /bern88-thumbs
   - title: References for editors
     url:  /references
+  - title: Using docker
+    url:  /docker    
   - title: Hackathon home page
     url:  /
   - title: HC MID club
